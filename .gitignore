@@ -1,7 +1,0 @@
-# Security: Ignore configuration file containing secrets
-config.js
-
-# OS generated files
-Thumbs.db
-Desktop.ini
-.DS_Store
